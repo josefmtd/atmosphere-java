@@ -1,3 +1,2 @@
 voila
-eemont
-git+git://github.com/giswqs/geemap.git
+geemap
